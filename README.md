@@ -45,17 +45,40 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ---
  
 ## 🔗 Chains & Web3
- 
-[![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=fff)](#)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
-[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
-![Hedera](https://img.shields.io/badge/Hedera-222222?logo=hedera&logoColor=white&style=flat)
-![Klever](https://img.shields.io/badge/Klever-8A2BE2?style=flat&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-Protocol_Design-1D9E75?style=flat-square)
-![DAO](https://img.shields.io/badge/DAO-Design-39d353?style=flat-square)
-![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-363636?style=flat-square)
-![Commons Governance](https://img.shields.io/badge/Commons-Governance-0d6efd?style=flat-square)
-![Impact Tracking](https://img.shields.io/badge/Impact-Tracking-2ea44f?style=flat-square)
+
+<p align="center">
+
+<a href="https://ethereum.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/ethereum/ethereum.svg" width="55" height="55" alt="Ethereum"/>
+</a>
+
+<a href="https://solana.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/solana/solana.svg" width="55" height="55" alt="Solana"/>
+</a>
+
+<a href="https://stellar.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/stellar/stellar.svg" width="55" height="55" alt="Stellar"/>
+</a>
+
+<a href="https://hedera.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/hedera/hedera.svg" width="55" height="55" alt="Hedera"/>
+</a>
+
+<a href="https://klever.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/klever/klever.svg" width="55" height="55" alt="Klever"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DeFi-Protocol_Design-1D9E75?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAO-Design-39d353?style=flat-square"/>
+<img src="https://img.shields.io/badge/Smart-Contracts-363636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Commons-Governance-0d6efd?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impact-Tracking-2ea44f?style=flat-square"/>
+
+</p>
  
 ---
  
