@@ -28,6 +28,12 @@ Biologist and Agroecologist with 20+ years teaching Permaculture across Brazil �
 I build tools, protocols and autonomous systems that bridge ecological regeneration with decentralized coordination. I believe the best technologies should behave like healthy ecosystems: adaptive, resilient and life-serving.
  
 ---
+
+## 🛠 Stack & Tools
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,rust,python,nodejs,react,vite,solidity,docker,kubernetes,terraform,ansible,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
  
 ## 🚀 Building
  
@@ -116,12 +122,6 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ![Digital Sovereignty](https://img.shields.io/badge/Digital-Sovereignty-8A2BE2?style=flat-square)
 ![Open-source Ecosystems](https://img.shields.io/badge/Open--source-Ecosystems-2088FF?style=flat-square)
  
-
----
-
-## 🛠 Stack & Tools
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,rust,python,nodejs,react,vite,solidity,docker,kubernetes,terraform,ansible,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
