@@ -179,7 +179,7 @@ const catito = {
 ## 🌍 Focus Areas
 
 | Domain | What I build |
-| --------------- | ---------------------------------------------------------------- |
+| --- | --- |
 | 🌊 Water | Verifiable ecological assets & watershed-oriented infrastructure |
 | 🌳 Forest | Biodiversity, carbon & regenerative asset tokenization |
 | 🪨 Soil | Soil intelligence systems & regenerative agriculture tooling |
