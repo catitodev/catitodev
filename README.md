@@ -48,24 +48,24 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 
 <p align="center">
 
-<a href="https://ethereum.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/ethereum/ethereum.svg" width="55" height="55" alt="Ethereum"/>
+<a href="https://ethereum.org">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" width="55" height="55" alt="Ethereum"/>
 </a>
 
-<a href="https://solana.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/solana/solana.svg" width="55" height="55" alt="Solana"/>
+<a href="https://solana.com">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=040" width="55" height="55" alt="Solana"/>
 </a>
 
-<a href="https://stellar.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/stellar/stellar.svg" width="55" height="55" alt="Stellar"/>
+<a href="https://stellar.org">
+  <img src="https://cryptologos.cc/logos/stellar-xlm-logo.svg?v=040" width="55" height="55" alt="Stellar"/>
 </a>
 
-<a href="https://hedera.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/hedera/hedera.svg" width="55" height="55" alt="Hedera"/>
+<a href="https://hedera.com">
+  <img src="https://cryptologos.cc/logos/hedera-hbar-logo.svg?v=040" width="55" height="55" alt="Hedera"/>
 </a>
 
-<a href="https://klever.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/0xa3k5/web3icons/main/icons/klever/klever.svg" width="55" height="55" alt="Klever"/>
+<a href="https://klever.org">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6725.png" width="55" height="55" alt="Klever"/>
 </a>
 
 </p>
@@ -116,20 +116,6 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ![ReFi](https://img.shields.io/badge/ReFi-Coordination_Mechanisms-39d353?style=flat-square)
 ![Governance](https://img.shields.io/badge/AI_Native-Governance-0d6efd?style=flat-square)
 ![DeEI](https://img.shields.io/badge/Decentralized-Ecological_Intelligence-teal?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=github_dark&hide_border=true"/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=catitodev&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=39d353&currStreakLabel=c9d1d9)
-
-</div>
 
 ---
 
