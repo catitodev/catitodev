@@ -139,13 +139,13 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=1D9E75&text_color=c9d1d9)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9)
- 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=transparent&hide_border=true"/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=catitodev&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=39d353&currStreakLabel=c9d1d9)
- 
+
 </div>
 
 ---
@@ -154,7 +154,7 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 
 <div align="center">
 
-![Pac-Man](https://raw.githubusercontent.com/catitodev/catitodev/output/github-contribution-grid-pacman-dark.svg)
+![Snake animation](https://github.com/catitodev/catitodev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -214,12 +214,3 @@ I believe the best technologies should behave like healthy ecosystems: adaptive,
 </div>
 
 
-https://raw.githubusercontent.com/catitodev/catitodev/output/github-contribution-grid-pacman-dark.svg
-
-## 🏆 Achievements to unlock next:
-
-- Galaxy Brain   → answer a Discussion thread marked as solved by the repo owner
-- Quickdraw      → open + close an Issue or PR in under 5 minutes
-- Public Sponsor → sponsor any dev via GitHub Sponsors (even $1/mo counts)
-
-===================================================== -->
