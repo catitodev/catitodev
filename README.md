@@ -31,7 +31,7 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 
 ## 🛠 Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,rust,python,nodejs,react,vite,solidity,docker,kubernetes,terraform,ansible,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,rust,python,nodejs,react,vite,solidity,docker,kubernetes,terraform,ansible,linux,git,github,vscode,githubactions,jenkins,argo,prometheus,grafana,bash,nginx,cloudflare&theme=dark)](https://skillicons.dev)
 
 ---
  
@@ -56,36 +56,6 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-363636?style=flat-square)
 ![Commons Governance](https://img.shields.io/badge/Commons-Governance-0d6efd?style=flat-square)
 ![Impact Tracking](https://img.shields.io/badge/Impact-Tracking-2ea44f?style=flat-square)
- 
----
- 
-## 🛠 Engineering
- 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
- 
----
- 
-## ⚙️ Infrastructure
- 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-![GitOps](https://img.shields.io/badge/GitOps-0d6efd?style=flat-square)
-![SRE](https://img.shields.io/badge/SRE-Site_Reliability-1D9E75?style=flat-square)
-![Self-hosting](https://img.shields.io/badge/Self--hosting-Automation-39d353?style=flat-square)
  
 ---
  
@@ -114,16 +84,6 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 ![Ecological Restoration](https://img.shields.io/badge/Ecological-Restoration-1D9E75?style=flat-square)
  
 ---
- 
-## 🏛 Governance & Commons
- 
-![Community Governance](https://img.shields.io/badge/Community-Governance-0d6efd?style=flat-square)
-![Participatory Methodologies](https://img.shields.io/badge/Participatory-Methodologies-blueviolet?style=flat-square)
-![Digital Sovereignty](https://img.shields.io/badge/Digital-Sovereignty-8A2BE2?style=flat-square)
-![Open-source Ecosystems](https://img.shields.io/badge/Open--source-Ecosystems-2088FF?style=flat-square)
- 
-
----
 
 ## 🧪 Currently Exploring
 
@@ -140,9 +100,9 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=github_dark&hide_border=true"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=catitodev&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=39d353&currStreakLabel=c9d1d9)
 
@@ -203,19 +163,19 @@ Building across regenerative tech, AI and decentralized ecosystems:
 
 I see technology as ecosystem design.
 
-The same principles that create resilient forests — diversity, cooperation, feedback loops and adaptive balance — can also shape healthier digital systems, communities and economies.
+The same principles that create resilient forests - diversity, cooperation, feedback loops and adaptive balance — can also shape healthier digital systems, communities and economies.
 
 ---
 
 ## 💬 About
 
-I started in the field — literally.
+I started in the field - literally.
 
 More than 20 years teaching permaculture and agroecology across Brazil shaped how I understand systems: resilient, interconnected and designed to sustain life over time.
 
 Today, I apply that same systems thinking to technology.
 
-My work sits at the intersection of AI agents, Web3 infrastructure and regenerative economies — building tools, protocols and autonomous systems that bridge ecological regeneration with decentralized coordination.
+My work sits at the intersection of AI agents, Web3 infrastructure and regenerative economies - building tools, protocols and autonomous systems that bridge ecological regeneration with decentralized coordination.
 
 I believe the best technologies should behave like healthy ecosystems: adaptive, resilient and life-serving.
 
