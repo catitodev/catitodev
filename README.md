@@ -20,6 +20,7 @@
 ---
 
 ```javascript
+
 // catito.js
 
 const catito = {
@@ -229,46 +230,7 @@ I believe the best technologies should behave like healthy ecosystems: adaptive,
 
 </div>
 
----
 
-<!-- =====================================================
-     SETUP GUIDE — read before pushing
-     =====================================================
-
-## 🔧 To activate the Pac-Man animation:
-
-Create the file: .github/workflows/pacman.yml
-
-With this content:
-
-name: Generate Pac-Man
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: buluma/github-action-pacman@v0.0.1
-        with:
-          github_user_name: catitodev
-          outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-After the first Action run, the Pac-Man SVG will be live at:
 https://raw.githubusercontent.com/catitodev/catitodev/output/github-contribution-grid-pacman-dark.svg
 
 ## 🏆 Achievements to unlock next:
