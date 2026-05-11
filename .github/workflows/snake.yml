@@ -1,24 +1,30 @@
-name: Generate Pac-Man
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    permissions:
+      contents: write
 
-      - uses: buluma/github-action-pacman@v0.0.1
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 5
+
+    steps:
+      - uses: Platane/snk@v3
         with:
           github_user_name: catitodev
           outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
