@@ -19,120 +19,103 @@
 
 ---
 
-```javascript
-
-// catito.js
-
-const catito = {
-  background: [
-    "Biology",
-    "Agroecology",
-    "Permaculture educator & practitioner (20+ yrs)"
-  ],
-
-  mission:
-    "Designing regenerative digital infrastructure for ecological and decentralized futures.",
-
-  now_building: [
-    "dMRV & RWA tokenization for forests, water and soil assets",
-    "Regenerative DeFi/ReFi protocols across multi-chain ecosystems",
-    "Multi-agent AI systems for autonomous coordination",
-    "Agentic SaaS for regenerative and decentralized economies"
-  ],
-
-  contributes_to: [
-    "public goods",
-    "open-source ecosystems",
-    "digital sovereignty",
-    "regenerative finance"
-  ],
-
-  systemsArchitecture: [
-    "Distributed Systems",
-    "Systems Architecture",
-    "Infrastructure as Code",
-    "API Design",
-    "Automation",
-    "GitOps",
-    "Event-driven Architecture",
-    "Backend Engineering"
-  ],
-
-  engineering: [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Rust",
-    "C++",
-    "HTML",
-    "CSS",
-    "Node.js",
-    "React",
-    "Vite",
-    "Solidity"
-  ],
-
-  aiSystems: [
-    "LLMs",
-    "AI Agents",
-    "Agentic Workflows",
-    "Prompt Engineering",
-    "RAG",
-    "Context Engineering",
-    "Semantic Search",
-    "Knowledge Systems",
-    "Autonomous Coordination"
-  ],
-
-  decentralizedSystems: [
-    "Ethereum",
-    "Solana",
-    "Stellar/Soroban",
-    "Hedera",
-    "Klever",
-    "Smart Contracts",
-    "DAO Design",
-    "DeFi",
-    "ReFi",
-    "Commons Governance",
-    "Impact Tracking"
-  ],
-
-  infrastructure: [
-    "Linux",
-    "Docker",
-    "Kubernetes",
-    "Terraform",
-    "Ansible",
-    "CI/CD",
-    "Self-hosting",
-    "DevOps",
-    "SRE",
-    "Automation"
-  ],
-
-  regenerativeSystems: [
-    "Permaculture Design",
-    "Agroforestry",
-    "Syntropic Agriculture",
-    "Climate Resilience",
-    "Watershed-oriented Design",
-    "Regenerative Economies",
-    "Socio-ecological Systems",
-    "Ecological Restoration"
-  ],
-
-  governance: [
-    "Community Governance",
-    "Participatory Methodologies",
-    "Digital Sovereignty",
-    "Open-source Ecosystems"
-  ],
-
-  fun_fact:
-    "Started with forests and soil. Ended up building AI agents, DAOs and smart contracts."
-}
-```
+## 🌿 Mission
+ 
+> *Designing regenerative digital infrastructure for ecological and decentralized futures.*
+ 
+Biologist and Agroecologist with 20+ years teaching Permaculture across Brazil — now applying the same systems thinking to Web3, AI agents and regenerative economies.
+ 
+I build tools, protocols and autonomous systems that bridge ecological regeneration with decentralized coordination. I believe the best technologies should behave like healthy ecosystems: adaptive, resilient and life-serving.
+ 
+---
+ 
+## 🚀 Building
+ 
+![dMRV](https://img.shields.io/badge/dMRV-RWA_Tokenization-1D9E75?style=flat-square)
+![ReFi](https://img.shields.io/badge/ReFi-Multi--chain_Protocols-39d353?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Multi--agent_Systems-blueviolet?style=flat-square)
+![Agentic SaaS](https://img.shields.io/badge/Agentic_SaaS-Regenerative_Ethics-0d6efd?style=flat-square)
+ 
+---
+ 
+## 🔗 Chains & Web3
+ 
+[![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=fff)](#)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
+![Hedera](https://img.shields.io/badge/Hedera-222222?logo=hedera&logoColor=white&style=flat)
+![Klever](https://img.shields.io/badge/Klever-8A2BE2?style=flat&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-Protocol_Design-1D9E75?style=flat-square)
+![DAO](https://img.shields.io/badge/DAO-Design-39d353?style=flat-square)
+![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-363636?style=flat-square)
+![Commons Governance](https://img.shields.io/badge/Commons-Governance-0d6efd?style=flat-square)
+![Impact Tracking](https://img.shields.io/badge/Impact-Tracking-2ea44f?style=flat-square)
+ 
+---
+ 
+## 🛠 Engineering
+ 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+ 
+---
+ 
+## ⚙️ Infrastructure
+ 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+![GitOps](https://img.shields.io/badge/GitOps-0d6efd?style=flat-square)
+![SRE](https://img.shields.io/badge/SRE-Site_Reliability-1D9E75?style=flat-square)
+![Self-hosting](https://img.shields.io/badge/Self--hosting-Automation-39d353?style=flat-square)
+ 
+---
+ 
+## 🤖 AI Systems
+ 
+![LLMs](https://img.shields.io/badge/LLMs-Language_Models-blueviolet?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8A2BE2?style=flat-square)
+![Agentic Workflows](https://img.shields.io/badge/Agentic-Workflows-0d6efd?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-1D9E75?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-2ea44f?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context-Engineering-39d353?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic-Search-blueviolet?style=flat-square)
+![Autonomous Coordination](https://img.shields.io/badge/Autonomous-Coordination-8A2BE2?style=flat-square)
+ 
+---
+ 
+## 🌍 Regenerative Systems
+ 
+![Permaculture](https://img.shields.io/badge/Permaculture-Design-1D9E75?style=flat-square)
+![Agroforestry](https://img.shields.io/badge/Agroforestry-39d353?style=flat-square)
+![Syntropic Agriculture](https://img.shields.io/badge/Syntropic-Agriculture-2ea44f?style=flat-square)
+![Climate Resilience](https://img.shields.io/badge/Climate-Resilience-0d6efd?style=flat-square)
+![Watershed Design](https://img.shields.io/badge/Watershed--oriented-Design-1D9E75?style=flat-square)
+![Regenerative Economies](https://img.shields.io/badge/Regenerative-Economies-39d353?style=flat-square)
+![Socio-ecological Systems](https://img.shields.io/badge/Socio--ecological-Systems-2ea44f?style=flat-square)
+![Ecological Restoration](https://img.shields.io/badge/Ecological-Restoration-1D9E75?style=flat-square)
+ 
+---
+ 
+## 🏛 Governance & Commons
+ 
+![Community Governance](https://img.shields.io/badge/Community-Governance-0d6efd?style=flat-square)
+![Participatory Methodologies](https://img.shields.io/badge/Participatory-Methodologies-blueviolet?style=flat-square)
+![Digital Sovereignty](https://img.shields.io/badge/Digital-Sovereignty-8A2BE2?style=flat-square)
+![Open-source Ecosystems](https://img.shields.io/badge/Open--source-Ecosystems-2088FF?style=flat-square)
+ 
 
 ---
 
@@ -156,13 +139,13 @@ const catito = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catitodev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=1D9E75&text_color=c9d1d9)
-&nbsp;
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catitodev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9)
-
+ 
 ![GitHub Streak](https://streak-stats.demolab.com?user=catitodev&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=39d353&currStreakLabel=c9d1d9)
-
+ 
 </div>
 
 ---
