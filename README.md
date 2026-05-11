@@ -154,7 +154,23 @@ I build tools, protocols and autonomous systems that bridge ecological regenerat
 
 <div align="center">
 
-![Snake animation](https://github.com/catitodev/catitodev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/catitodev/catitodev/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/catitodev/catitodev/output/github-snake.svg"
+  />
+
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/catitodev/catitodev/output/github-snake.svg"
+  />
+
+</picture>
 
 </div>
 
