@@ -3,7 +3,7 @@
 
 # 🌱 Hey, I'm Catito
 
-**Biologist · Agroecologist · Regenerative Systems Architect · Fullstack & Web3 Developer**
+**Biologist · Permacultor · Agroecologist · Regenerative Systems Architect · Fullstack & Web3 Developer**
 
 *From permaculture to protocol design — building systems that regenerate life.*
 
